@@ -5,7 +5,7 @@
 		<link rel="stylesheet" href="css/style.css"/>
 	</head>
 	<body>
-	</body>
+	
 
 	<?php
 		require('db_connect.php');
